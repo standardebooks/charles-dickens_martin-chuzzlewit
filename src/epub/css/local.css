@@ -100,6 +100,20 @@ header [epub|type~="z3998:salutation"]{
 	text-align: initial;
 }
 
+#dedication{
+	font-variant: small-caps;
+	line-height: 2;
+}
+
+#dedication b{
+	font-size: larger;
+}
+
+#dedication i{
+	font-style: italic;
+	font-variant: none;
+}
+
 #chapter-22 [epub|type~="z3998:recipient"]{
 	text-align: initial;
 	text-indent: 0;
