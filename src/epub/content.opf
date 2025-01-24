@@ -63,16 +63,18 @@
 		<meta property="authority" refines="#subject-10">LCSH</meta>
 		<meta property="term" refines="#subject-10">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young man is spurned by his wealthy grandfather and attempts to make it on his own.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Old Martin Chuzzlewit is a wealthy old man beset with health problems, who sees everyone around him—family, friends, and strangers—as after his money. He has isolated himself from society, keeping with him only a young woman, Mary, whom he raised as an orphan. He has told her she will inherit nothing from him, to ensure that her service is purely for service sake.&lt;/p&gt;
+			&lt;p&gt;Young Martin Chuzzlewit, for whom the novel is named, is the elder’s grandson. He loved his grandfather and was beloved by him, until young Martin and Mary fell in love with one another. Old Martin promptly disowned young Martin, and threw him out. Young Martin then signs on as an apprentice to a local architect, and there meets Tom Pinch, a former student and current dogsbody for the architect.&lt;/p&gt;
+			&lt;p&gt;The rest of the novel follows young Martin and Tom and the usual Dickensian cast of supporting characters on their adventures together and apart, including a disastrous trip to the United States for young Martin. The trip provides &lt;a href="https://standardebooks.org/ebooks/charles-dickens"&gt;Dickens&lt;/a&gt; the opportunity to skewer American sensibilities as he had done so often with British ones.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/968</dc:source>
 		<dc:source>https://archive.org/details/lifeadventureofm0000unse</dc:source>
 		<!-- dedication -->
 		<dc:source>https://archive.org/details/worksofcharlesdb02dick</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">The transcription was missing a number of italics and punctuation compared to the scans.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Martin_Chuzzlewit</meta>
