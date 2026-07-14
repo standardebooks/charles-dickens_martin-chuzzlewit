@@ -32,7 +32,7 @@
 		<meta property="file-as" refines="#title">Martin Chuzzlewit</meta>
 		<meta property="title-type" refines="#title">main</meta>
 		<dc:title id="fulltitle">The Life and Adventures of Martin Chuzzlewit</dc:title>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<meta property="file-as" refines="#fulltitle">Life and Adventures of Martin Chuzzlewit, The</meta>
 		<dc:subject id="subject-1">Satire</dc:subject>
 		<dc:subject id="subject-2">England -- Fiction</dc:subject>
