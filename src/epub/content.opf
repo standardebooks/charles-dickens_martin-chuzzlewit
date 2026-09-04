@@ -35,15 +35,15 @@
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<meta property="file-as" refines="#fulltitle">Life and Adventures of Martin Chuzzlewit, The</meta>
 		<dc:subject id="subject-1">Satire</dc:subject>
-		<dc:subject id="subject-2">England -- Fiction</dc:subject>
+		<dc:subject id="subject-2">England--Fiction</dc:subject>
 		<dc:subject id="subject-3">Bildungsromans</dc:subject>
-		<dc:subject id="subject-4">Young men -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Grandfathers -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Young men--Fiction</dc:subject>
+		<dc:subject id="subject-5">Grandfathers--Fiction</dc:subject>
 		<dc:subject id="subject-6">Adventure stories</dc:subject>
-		<dc:subject id="subject-7">British -- United States -- Fiction</dc:subject>
+		<dc:subject id="subject-7">British--United States--Fiction</dc:subject>
 		<dc:subject id="subject-8">Black humor</dc:subject>
-		<dc:subject id="subject-9">Avarice -- Fiction</dc:subject>
-		<dc:subject id="subject-10">United States -- Description and travel -- Fiction</dc:subject>
+		<dc:subject id="subject-9">Avarice--Fiction</dc:subject>
+		<dc:subject id="subject-10">United States--Description and travel--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85117645</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
